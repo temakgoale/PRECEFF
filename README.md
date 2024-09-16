@@ -1,0 +1,1 @@
+These files were used to generate the figures for the paper titled "Characterization and Comparison of Simulated Precipitation Efficiency from Global Storm-Resolving Models over the Asian Monsoon Region."
